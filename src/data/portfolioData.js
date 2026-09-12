@@ -209,7 +209,7 @@ export const leadershipList = [
     description: "Successfully completed the AI Fundamentals course authorized by Google and offered through Coursera. Gained foundational knowledge in artificial intelligence concepts and applications.",
     label: "GOOGLE • COURSERA",
     date: "Aug 19, 2026",
-    link: "/src/assets/google-ai-certificate.png",
+    link: "/google-ai-certificate.png",
     image: googleAiCert,
     motif: "brackets"
   },
@@ -219,7 +219,7 @@ export const leadershipList = [
     description: "Successfully completed the TCS iON Career Edge - Generative AI Essentials course covering Foundations of AI and Machine Learning, Fundamentals of Generative AI, Prompt Engineering, Responsible and Ethical AI, and Real-world Implementation.",
     label: "TCS iON • TATA",
     date: "Jul 25 - Aug 09, 2026",
-    link: "/src/assets/tcs-ion-cert.jpg",
+    link: "/tcs-ion-cert.jpg",
     image: tcsIonCert,
     motif: "brackets"
   },
@@ -229,7 +229,7 @@ export const leadershipList = [
     description: "Successfully completed the Web Development Fundamentals course by IBM SkillsBuild, covering professional excellence in web development concepts and practices.",
     label: "IBM • SKILLSBUILD",
     date: "Jul 07, 2026",
-    link: "/src/assets/ibm-web-cert.jpg",
+    link: "/ibm-web-cert.jpg",
     image: ibmWebCert,
     motif: "brackets"
   },
@@ -239,7 +239,7 @@ export const leadershipList = [
     description: "Successfully completed 4 weeks of a virtual internship program in Web Development at CodSoft with wonderful remarks, showcasing skills and invaluable contributions to tasks and projects.",
     label: "CODSOFT • VIRTUAL INTERNSHIP",
     date: "Aug 01 - Aug 31, 2026",
-    link: "/src/assets/codsoft-cert.jpg",
+    link: "/codsoft-cert.jpg",
     image: codsoftCert,
     motif: "brackets"
   }
